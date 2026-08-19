@@ -4,6 +4,8 @@ I'm an 📐🏠🌳 architect and environmental designer passionate about creati
 
 📃 My papers are available for reading on [Google Scholar](https://scholar.google.es/citations?hl=en&user=Dw4s2AkAAAAJ) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" alt="Sample Image" title="This is a sample image" width="20"> 
 
+📃 My papers are available for reading on [Google Scholar](https://scholar.google.es/citations?hl=en&user=Dw4s2AkAAAAJ) <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXCvjrpDhbsgtQPw4WHdf9bEjjCqBNBNL9kgPWlvr7kg9amoAkfBxBztvf&s=10" alt="Sample Image" title="This is a sample image" width="20"> 
+
 
 
 ---
